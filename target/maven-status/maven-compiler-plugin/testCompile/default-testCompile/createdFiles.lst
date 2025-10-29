@@ -1,0 +1,6 @@
+base\BaseTest.class
+pages\ProductPage.class
+utils\WebDriverFactory.class
+tests\BannerBuzzTest.class
+pages\CartPage.class
+pages\HomePage.class
